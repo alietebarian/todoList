@@ -82,3 +82,8 @@ h1 {
 .TodoWrapper h1 {
   text-align: center;
 }
+
+.swal-footer {
+  display: flex;
+  justify-content: center;
+}
